@@ -1,0 +1,30 @@
+programa {
+
+    caractere name
+    inteiro data
+    inteiro salario
+    inteiro aumento
+    real salario_final
+
+    funcao inicio() {
+        escreva("Nome do funcionario?")
+        leia (nome)
+
+        escreva("Bem Vindo " + nome + "!!!")
+
+        escreva("Qual o seu Salario?")
+        leia (salario)
+
+       se (salario < 500)
+       {
+           real aumento = salario * 0.3
+           escreva ("Você recebeu aumento!!!")
+           escreva ("Seu salario agora e de R$" + salario_final)
+       }
+
+       senao 
+       {
+           escreva ("O seu salario não esta disponivel para aumento!!!")
+       }
+    }
+}

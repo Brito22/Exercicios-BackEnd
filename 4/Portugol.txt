@@ -1,0 +1,85 @@
+programa {
+
+    caractere name
+    inteiro idade
+
+    funcao inicio() {
+        escreva("Qual o seu nome nadador?")
+        leia (nome)
+
+        escreva("Bem Vindo " + nome + "!!!")
+
+        escreva("Qual a sua idade?")
+        leia (idade)
+
+      se (idade == 5)
+            {
+               escreva("Você pertence ao grupo INFANTIL A")
+            }
+            se (idade == 6)
+            {
+               escreva("Você pertence ao grupo INFANTIL A")
+            }
+           se (idade == 7)
+            {
+                escreva("Você pertence ao grupo INFANTIL A")
+            }
+
+
+            se (idade == 8)
+            {
+                escreva("Você pertence ao grupo INFANTIL B")
+            }
+           se (idade == 9)
+            {
+                escreva("Você pertence ao grupo INFANTIL B")
+            }
+            se (idade == 10)
+            {
+                escreva("Você pertence ao grupo INFANTIL B")
+            }
+
+            
+            se (idade == 11)
+            {
+                escreva("Você pertence ao grupo JUVENIL A")
+            }
+            se (idade == 12)
+            {
+               escreva("Você pertence ao grupo JUVENIL A")
+            }
+            se (idade == 13)
+            {
+                escreva("Você pertence ao grupo JUVENIL A")
+            }
+
+
+            se (idade == 14)
+            {
+                escreva("Você pertence ao grupo JUVENIL B")
+            }
+            se (idade == 15)
+            {
+                escreva("Você pertence ao grupo JUVENIL B")
+            }
+            se (idade == 16)
+            {
+                escreva("Você pertence ao grupo JUVENIL B")
+            }
+            se (idade == 17)
+            {
+                escreva("Você pertence ao grupo JUVENIL B")
+            }
+
+
+            se (idade >= 18)
+            {
+                escreva("Você pertence ao grupo SÊNIOR")
+            }
+            senao
+            {
+                escreva("Voçê não pertence a nenhum grupo")
+            }
+        }
+    }
+}

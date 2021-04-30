@@ -1,0 +1,32 @@
+programa {
+
+    caractere nome
+    inteiro idade
+    inteiro idade_meses
+    inteiro idade_dias
+    inteiro idade_horas
+    inteiro idade_minutos
+
+    funcao inicio() {
+        escreva("Qual seu nome?")
+        leia (nome)
+
+        escreva("Bem Vindo " + nome + "!!!")
+
+        escreva("qual a sua idade?")
+        leia (idade)
+
+        idade_meses = idade * 12 ;
+
+        idade_dias = idade * 365;
+
+        idade_horas = idade * (24 * 365);
+
+        idade_minutos = idade * (1440 * 365);
+
+        escreva("A sua idade em meses e de " + idade_meses + " meses\n")
+        escreva("A sua idade em dias e de " + idade_dias + " dias\n")
+        escreva("A sua idade em horas e de " + idade_horas + " horas\n")
+        escreva("A sua idade em minutos e de " + idade_minutos + " minutos\n")
+    }
+}

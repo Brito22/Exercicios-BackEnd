@@ -1,0 +1,32 @@
+programa {
+
+    caractere name
+    inteiro data
+    inteiro idade
+    inteiro idade_semanas
+
+    funcao inicio() {
+        escreva("Qual seu nome?")
+        leia (nome)
+
+        escreva("Bem Vindo " + nome + "!!!")
+
+        escreva("Em que ano você nasceu?")
+        leia (data)
+
+       se (data > 2021)
+       {
+           escreva ("Sua idade não pode ser calculada")
+       }
+
+       se (data < 1870)
+       {
+           escreva ("Sua idade não pode ser calculada")
+       }
+       senao 
+       {
+           escreva ("Sua idade é " + idade +" Anos")
+           escreva ("Sua idade em semanas é " + idade_semanas)
+       }
+    }
+}
