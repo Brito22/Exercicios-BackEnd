@@ -1,0 +1,16 @@
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\switch\obj\Debug\net5.0\switch.csprojAssemblyReference.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\switch\obj\Debug\net5.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\switch\obj\Debug\net5.0\switch.AssemblyInfoInputs.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\switch\obj\Debug\net5.0\switch.AssemblyInfo.cs
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\switch\obj\Debug\net5.0\switch.csproj.CoreCompileInputs.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\switch\bin\Debug\net5.0\switch.exe
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\switch\bin\Debug\net5.0\switch.deps.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\switch\bin\Debug\net5.0\switch.runtimeconfig.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\switch\bin\Debug\net5.0\switch.runtimeconfig.dev.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\switch\bin\Debug\net5.0\switch.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\switch\bin\Debug\net5.0\ref\switch.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\switch\bin\Debug\net5.0\switch.pdb
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\switch\obj\Debug\net5.0\switch.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\switch\obj\Debug\net5.0\ref\switch.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\switch\obj\Debug\net5.0\switch.pdb
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\switch\obj\Debug\net5.0\switch.genruntimeconfig.cache

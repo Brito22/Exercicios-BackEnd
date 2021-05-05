@@ -1,0 +1,16 @@
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Meu\bin\Debug\net5.0\Conversão Meu.exe
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Meu\bin\Debug\net5.0\Conversão Meu.deps.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Meu\bin\Debug\net5.0\Conversão Meu.runtimeconfig.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Meu\bin\Debug\net5.0\Conversão Meu.runtimeconfig.dev.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Meu\bin\Debug\net5.0\Conversão Meu.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Meu\bin\Debug\net5.0\ref\Conversão Meu.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Meu\bin\Debug\net5.0\Conversão Meu.pdb
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Meu\obj\Debug\net5.0\Conversão Meu.csprojAssemblyReference.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Meu\obj\Debug\net5.0\Conversão Meu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Meu\obj\Debug\net5.0\Conversão Meu.AssemblyInfoInputs.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Meu\obj\Debug\net5.0\Conversão Meu.AssemblyInfo.cs
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Meu\obj\Debug\net5.0\Conversão Meu.csproj.CoreCompileInputs.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Meu\obj\Debug\net5.0\Conversão Meu.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Meu\obj\Debug\net5.0\ref\Conversão Meu.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Meu\obj\Debug\net5.0\Conversão Meu.pdb
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Meu\obj\Debug\net5.0\Conversão Meu.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Pronto\bin\Debug\net5.0\Conversão Pronto.exe
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Pronto\bin\Debug\net5.0\Conversão Pronto.deps.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Pronto\bin\Debug\net5.0\Conversão Pronto.runtimeconfig.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Pronto\bin\Debug\net5.0\Conversão Pronto.runtimeconfig.dev.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Pronto\bin\Debug\net5.0\Conversão Pronto.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Pronto\bin\Debug\net5.0\ref\Conversão Pronto.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Pronto\bin\Debug\net5.0\Conversão Pronto.pdb
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Pronto\obj\Debug\net5.0\Conversão Pronto.csprojAssemblyReference.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Pronto\obj\Debug\net5.0\Conversão Pronto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Pronto\obj\Debug\net5.0\Conversão Pronto.AssemblyInfoInputs.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Pronto\obj\Debug\net5.0\Conversão Pronto.AssemblyInfo.cs
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Pronto\obj\Debug\net5.0\Conversão Pronto.csproj.CoreCompileInputs.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Pronto\obj\Debug\net5.0\Conversão Pronto.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Pronto\obj\Debug\net5.0\ref\Conversão Pronto.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Pronto\obj\Debug\net5.0\Conversão Pronto.pdb
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Conversão Pronto\obj\Debug\net5.0\Conversão Pronto.genruntimeconfig.cache

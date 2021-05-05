@@ -1,0 +1,16 @@
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\4 a\bin\Debug\net5.0\4 a.exe
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\4 a\bin\Debug\net5.0\4 a.deps.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\4 a\bin\Debug\net5.0\4 a.runtimeconfig.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\4 a\bin\Debug\net5.0\4 a.runtimeconfig.dev.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\4 a\bin\Debug\net5.0\4 a.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\4 a\bin\Debug\net5.0\ref\4 a.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\4 a\bin\Debug\net5.0\4 a.pdb
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\4 a\obj\Debug\net5.0\4 a.csprojAssemblyReference.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\4 a\obj\Debug\net5.0\4 a.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\4 a\obj\Debug\net5.0\4 a.AssemblyInfoInputs.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\4 a\obj\Debug\net5.0\4 a.AssemblyInfo.cs
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\4 a\obj\Debug\net5.0\4 a.csproj.CoreCompileInputs.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\4 a\obj\Debug\net5.0\4 a.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\4 a\obj\Debug\net5.0\ref\4 a.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\4 a\obj\Debug\net5.0\4 a.pdb
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\4 a\obj\Debug\net5.0\4 a.genruntimeconfig.cache

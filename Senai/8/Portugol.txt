@@ -1,0 +1,17 @@
+programa {
+
+    funcao inicio() {
+       {
+            inteiro n
+            inteiro x = 1, y = 0, z = 0
+            n = leia
+            for (inteiro fibonacci = 0 fibonacci <= 500 fibonacci++)
+            {
+                z = x + y
+                leia("Fibonacci " + z)
+                y = x
+                x = z
+            }
+            leia
+    }
+}

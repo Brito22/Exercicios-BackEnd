@@ -1,0 +1,33 @@
+programa {
+
+        caractere usuario
+        caractere senha
+
+    funcao inicio() {
+        {
+            logica senhaerrada = falso
+
+            faça
+            {
+            escreva("Qual o nome de usuario?")
+            usuario = leia.paramenor
+
+            escreva("Qual a sua senha?")
+            senha = leia.paramenor
+
+            se (usuario != senha)
+            {
+                escreva("Cadastrado com sucesso")
+                senhaerrada = verdadeiro;
+            }
+            se nao
+            {
+                escreva("Voce usou mesmo nome de usuario para senha, tente novamente!!!")
+            }
+
+            } enquanto (senhaerrada == falso)
+        }
+    }
+}
+    }
+}

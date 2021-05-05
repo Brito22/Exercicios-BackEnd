@@ -1,0 +1,85 @@
+programa {
+
+    logica nomevazio = falso;
+    logica idadeerrada = falso;
+    logica salariozero = falso;
+    logica estadocivil = falso;
+    caractere nome
+    inteiro idade
+    real salario
+    caractere estado
+
+
+    funcao inicio() {
+       {
+
+            faça
+            {
+
+            escreva("Qual seu nome?")
+            nome = leia()
+
+            se (nome != "")
+            {
+                nomevazio = verdadeiro
+            }
+            se nao
+            {
+                escreva("Campo Vazio, Tente novamente!!!")
+            }
+
+            } enquanto (nomevazio == falso)
+
+            faça
+            {
+
+            escreva("Qual a sua idade?")
+            idade = leia
+
+            se (idade >= 0 && idade <= 150)
+            {
+                idadeerrada = verdadeiro;
+            }
+            se nao 
+            {
+                escreva("Idade não corresponde, Tente Novamente!!!")
+            }
+
+            } enquanto (idadeerrada == falso)
+
+            faça
+            {
+            escreva("Qual seu salario?")
+            salario = leia
+
+            se (salario > 0)
+            {
+                salariozero = verdadeiro
+            }
+            else
+            {
+                escreva("Salario Não Corresponde, Tente Novamente!!!")
+            }
+
+            } enquanto (salariozero == falso)
+
+            faça
+            {
+            escreva("Qual seu Estado Civil? 's'(solteiro(a)), 'c'(casado(a)), 'v'(viuvo(a)), 'd'(divorciado(a))")
+            estado = leia
+
+            se (estado == "s" || estado == "c" || estado == "v" || estado == "d")   
+            {
+               escreva("Parabens Verificação Concluida")
+                estadocivil = verdadeiro;
+            }
+            se nao
+            {
+               escreva("Estado civil Não corresponde, Tente Novamente")
+            }
+                
+            } enquanto (estadocivil == falso);
+
+        }
+    }
+}

@@ -1,0 +1,27 @@
+programa {
+
+        inteiro resposta
+        logico respostaerrada = falso
+
+    funcao inicio() {
+
+        faça
+            {
+            escreva("Qual a sua nota? entre 0 a 10?")
+            resposta = leia
+
+            se (resposta >= 0 && resposta <= 10)
+            {
+                escreva("Sua nota e reconhecida, Obrigado!!!")
+                respostaerrada = verdadeiro
+            }
+            se não
+            {
+                escreva("Sua nota não e reconhecida, tente novamente!!")
+            }
+
+            } enquanto (respostaerrada == falso)
+            
+        }
+    }
+}

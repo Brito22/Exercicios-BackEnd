@@ -1,0 +1,16 @@
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Calculadora\bin\Debug\net5.0\Calculadora.exe
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Calculadora\bin\Debug\net5.0\Calculadora.deps.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.dev.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Calculadora\bin\Debug\net5.0\Calculadora.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Calculadora\bin\Debug\net5.0\ref\Calculadora.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Calculadora\bin\Debug\net5.0\Calculadora.pdb
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Calculadora\obj\Debug\net5.0\Calculadora.csprojAssemblyReference.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Calculadora\obj\Debug\net5.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfoInputs.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfo.cs
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Calculadora\obj\Debug\net5.0\Calculadora.csproj.CoreCompileInputs.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Calculadora\obj\Debug\net5.0\Calculadora.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Calculadora\obj\Debug\net5.0\ref\Calculadora.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Calculadora\obj\Debug\net5.0\Calculadora.pdb
+D:\Trabalhos\Senai\BackEnd\Exercicios\Testes\Calculadora\obj\Debug\net5.0\Calculadora.genruntimeconfig.cache
