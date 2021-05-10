@@ -1,0 +1,16 @@
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\pizzaria\bin\Debug\net5.0\pizzaria.exe
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\pizzaria\bin\Debug\net5.0\pizzaria.deps.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\pizzaria\bin\Debug\net5.0\pizzaria.runtimeconfig.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\pizzaria\bin\Debug\net5.0\pizzaria.runtimeconfig.dev.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\pizzaria\bin\Debug\net5.0\pizzaria.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\pizzaria\bin\Debug\net5.0\ref\pizzaria.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\pizzaria\bin\Debug\net5.0\pizzaria.pdb
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\pizzaria\obj\Debug\net5.0\pizzaria.csprojAssemblyReference.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\pizzaria\obj\Debug\net5.0\pizzaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\pizzaria\obj\Debug\net5.0\pizzaria.AssemblyInfoInputs.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\pizzaria\obj\Debug\net5.0\pizzaria.AssemblyInfo.cs
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\pizzaria\obj\Debug\net5.0\pizzaria.csproj.CoreCompileInputs.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\pizzaria\obj\Debug\net5.0\pizzaria.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\pizzaria\obj\Debug\net5.0\ref\pizzaria.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\pizzaria\obj\Debug\net5.0\pizzaria.pdb
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\pizzaria\obj\Debug\net5.0\pizzaria.genruntimeconfig.cache
