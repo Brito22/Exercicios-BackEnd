@@ -1,0 +1,16 @@
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Calculadora Modificada\bin\Debug\net5.0\Calculadora Modificada.exe
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Calculadora Modificada\bin\Debug\net5.0\Calculadora Modificada.deps.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Calculadora Modificada\bin\Debug\net5.0\Calculadora Modificada.runtimeconfig.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Calculadora Modificada\bin\Debug\net5.0\Calculadora Modificada.runtimeconfig.dev.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Calculadora Modificada\bin\Debug\net5.0\Calculadora Modificada.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Calculadora Modificada\bin\Debug\net5.0\ref\Calculadora Modificada.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Calculadora Modificada\bin\Debug\net5.0\Calculadora Modificada.pdb
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Calculadora Modificada\obj\Debug\net5.0\Calculadora Modificada.csprojAssemblyReference.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Calculadora Modificada\obj\Debug\net5.0\Calculadora Modificada.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Calculadora Modificada\obj\Debug\net5.0\Calculadora Modificada.AssemblyInfoInputs.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Calculadora Modificada\obj\Debug\net5.0\Calculadora Modificada.AssemblyInfo.cs
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Calculadora Modificada\obj\Debug\net5.0\Calculadora Modificada.csproj.CoreCompileInputs.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Calculadora Modificada\obj\Debug\net5.0\Calculadora Modificada.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Calculadora Modificada\obj\Debug\net5.0\ref\Calculadora Modificada.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Calculadora Modificada\obj\Debug\net5.0\Calculadora Modificada.pdb
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Calculadora Modificada\obj\Debug\net5.0\Calculadora Modificada.genruntimeconfig.cache

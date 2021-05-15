@@ -1,0 +1,16 @@
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Projeto Passagens Aéreas\bin\Debug\net5.0\Projeto Passagens Aéreas.exe
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Projeto Passagens Aéreas\bin\Debug\net5.0\Projeto Passagens Aéreas.deps.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Projeto Passagens Aéreas\bin\Debug\net5.0\Projeto Passagens Aéreas.runtimeconfig.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Projeto Passagens Aéreas\bin\Debug\net5.0\Projeto Passagens Aéreas.runtimeconfig.dev.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Projeto Passagens Aéreas\bin\Debug\net5.0\Projeto Passagens Aéreas.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Projeto Passagens Aéreas\bin\Debug\net5.0\ref\Projeto Passagens Aéreas.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Projeto Passagens Aéreas\bin\Debug\net5.0\Projeto Passagens Aéreas.pdb
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Projeto Passagens Aéreas\obj\Debug\net5.0\Projeto Passagens Aéreas.csprojAssemblyReference.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Projeto Passagens Aéreas\obj\Debug\net5.0\Projeto Passagens Aéreas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Projeto Passagens Aéreas\obj\Debug\net5.0\Projeto Passagens Aéreas.AssemblyInfoInputs.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Projeto Passagens Aéreas\obj\Debug\net5.0\Projeto Passagens Aéreas.AssemblyInfo.cs
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Projeto Passagens Aéreas\obj\Debug\net5.0\Projeto Passagens Aéreas.csproj.CoreCompileInputs.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Projeto Passagens Aéreas\obj\Debug\net5.0\Projeto Passagens Aéreas.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Projeto Passagens Aéreas\obj\Debug\net5.0\ref\Projeto Passagens Aéreas.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Projeto Passagens Aéreas\obj\Debug\net5.0\Projeto Passagens Aéreas.pdb
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Projeto Passagens Aéreas\obj\Debug\net5.0\Projeto Passagens Aéreas.genruntimeconfig.cache

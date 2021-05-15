@@ -6,7 +6,7 @@ namespace _17
     {
         static void Main(string[] args)
         {
-           int quantidade = 15;
+            int quantidade = 15;
 
             float[] lista = null;
             Console.WriteLine("Passe 15 Numeros");
@@ -15,7 +15,7 @@ namespace _17
 
             for (var i = 0; i < quantidade; i++)
             {
-                Console.WriteLine($"Qual e o {i} valor ?");
+                Console.WriteLine($"Qual e o {(i + 1)} valor ?");
                 lista[i] = float.Parse(Console.ReadLine());
             }
 

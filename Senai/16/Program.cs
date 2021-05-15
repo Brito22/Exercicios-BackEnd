@@ -15,25 +15,33 @@ namespace _16
 
             for (var i = 0; i < quantidade; i++)
             {
-                Console.WriteLine($"Qual e o {i} Nome ?");
+                Console.WriteLine($"Qual e o {(i + 1)} Nome ?");
                 lista[i] = Console.ReadLine();
             }
 
+            Console.WriteLine("Fale mais um nome para ver se existe ou não:");
+            string resposta = Console.ReadLine();
+
+            bool encontrado = false;
+
             foreach (var item in lista)
             {
-                Console.WriteLine("Fale mais um nome para ver se existe ou não:");
-                string resposta = Console.ReadLine();
 
                 if (resposta == item)
                 {
-                    Console.WriteLine("ACHEI SEU NOME");
-                }
-                else
-                {
-                    Console.WriteLine("NÃO ACHEI SEU NOME");
+                    encontrado = true;
                 }
             }
 
+            if (encontrado == true)
+            {
+                Console.WriteLine("ACHEI SEU NOME");
+            }
+            else
+            {
+                Console.WriteLine("NÃO ACHEI SEU NOME");
+            }
         }
     }
+
 }

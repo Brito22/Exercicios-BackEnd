@@ -45,7 +45,7 @@ namespace _11
                 Console.WriteLine($"Obrigado, voce tem {diminuido} anos!!!");
                 Console.WriteLine("Sua idade permite Votar este ano, otimo votação!!!!!!");
             }
-            else if (conta >= 16 )
+            else if (conta >= 16 && conta < 18)
             {
                 Console.WriteLine($"Obrigado, voce tem {diminuido} anos!!!");
                 Console.WriteLine("Sua idade permite Votar,mas não e obrigatorio, fica a sua escolha!!!!!!");
@@ -63,7 +63,7 @@ namespace _11
                 Console.WriteLine($"Obrigado, voce tem {conta} anos!!!");
                 Console.WriteLine("Sua idade permite Votar este ano, otimo votação!!!!!!");
             }
-            else if (conta >= 16 )
+            else if (conta >= 16 && conta < 18)
             {
                 Console.WriteLine($"Obrigado, voce tem {conta} anos!!!");
                 Console.WriteLine("Sua idade permite Votar,mas não e obrigatorio, fica a sua escolha!!!!!!");
@@ -74,7 +74,6 @@ namespace _11
                 Console.WriteLine($"Você ainda nao tem idade para votar, espere mais {contaidade} anos!!!");
             }
             }
-
         }
     }
 }
