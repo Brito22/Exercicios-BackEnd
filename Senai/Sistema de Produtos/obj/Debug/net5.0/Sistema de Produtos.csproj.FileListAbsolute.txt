@@ -1,0 +1,16 @@
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Sistema de Produtos\bin\Debug\net5.0\Sistema de Produtos.exe
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Sistema de Produtos\bin\Debug\net5.0\Sistema de Produtos.deps.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Sistema de Produtos\bin\Debug\net5.0\Sistema de Produtos.runtimeconfig.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Sistema de Produtos\bin\Debug\net5.0\Sistema de Produtos.runtimeconfig.dev.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Sistema de Produtos\bin\Debug\net5.0\Sistema de Produtos.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Sistema de Produtos\bin\Debug\net5.0\ref\Sistema de Produtos.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Sistema de Produtos\bin\Debug\net5.0\Sistema de Produtos.pdb
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Sistema de Produtos\obj\Debug\net5.0\Sistema de Produtos.csprojAssemblyReference.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Sistema de Produtos\obj\Debug\net5.0\Sistema de Produtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Sistema de Produtos\obj\Debug\net5.0\Sistema de Produtos.AssemblyInfoInputs.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Sistema de Produtos\obj\Debug\net5.0\Sistema de Produtos.AssemblyInfo.cs
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Sistema de Produtos\obj\Debug\net5.0\Sistema de Produtos.csproj.CoreCompileInputs.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Sistema de Produtos\obj\Debug\net5.0\Sistema de Produtos.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Sistema de Produtos\obj\Debug\net5.0\ref\Sistema de Produtos.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Sistema de Produtos\obj\Debug\net5.0\Sistema de Produtos.pdb
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\Sistema de Produtos\obj\Debug\net5.0\Sistema de Produtos.genruntimeconfig.cache
