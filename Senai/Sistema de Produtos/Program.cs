@@ -8,7 +8,8 @@ namespace Sistema_de_Produtos
         static string[] nome = new string[10];
         static float[] preco = new float[nome.Length];
         static string[] promocao = new string[nome.Length];
-        static string promo;
+        static bool[] desconto = new bool[nome.Length]; 
+        static string[] mostrardesconto = new string[nome.Length];
         static void Main(string[] args)
         {
             string respostamenu;
@@ -62,8 +63,13 @@ namespace Sistema_de_Produtos
                 Console.WriteLine($"QUal o valor do {c + 1} produto?");
                 preco[c] = float.Parse(Console.ReadLine());
 
-                Console.WriteLine($"O {c + 1} Esta em promoção? (sim/não)");
+                Console.WriteLine($"O {c + 1} Esta em promoção? (s/n)");
                 promocao[c] = Console.ReadLine().ToLower();
+
+                if(promocao[c] == "s")
+                {
+                    desconto[c] = true;
+                }
 
                 c++;
 
@@ -86,8 +92,15 @@ namespace Sistema_de_Produtos
         {
             for (var i = 0; i < c; i++)
             {
-                    Console.WriteLine($"\nVoce Cadastrou o produto {nome[i]} | no Valor de R${preco[i]} | {promocao[i]} Esta em Promoção!!!\n");
-                    Console.WriteLine("Valor Não Corresponde, Nenhuma das opções");
+                if (desconto[i] == true)
+                {
+                    mostrardesconto[i] = "Esta em Promoção";
+                }
+                else
+                {
+                    mostrardesconto[i] = "Sem Promoção";
+                }
+                    Console.WriteLine($"\nVoce Cadastrou o produto {nome[i]} | no Valor de R${preco[i]} | {mostrardesconto[i]}!!!\n");
             }
         }
     }
