@@ -1,0 +1,16 @@
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.exe
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.deps.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.runtimeconfig.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.runtimeconfig.dev.json
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\AulaPOOCelular\bin\Debug\net5.0\ref\AulaPOOCelular.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.pdb
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.csprojAssemblyReference.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.AssemblyInfoInputs.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.AssemblyInfo.cs
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.csproj.CoreCompileInputs.cache
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\AulaPOOCelular\obj\Debug\net5.0\ref\AulaPOOCelular.dll
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.pdb
+D:\Trabalhos\Senai\BackEnd\Exercicios\Senai\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.genruntimeconfig.cache
